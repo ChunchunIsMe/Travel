@@ -1,0 +1,107 @@
+[33mcommit fb3694cfaa0ec56dc503819ec9dd0082b3851fe3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/detail-header[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mdetail-header[m[33m)[m
+Author: ChunchunIsMe <843799751@qq.com>
+Date:   Wed Aug 15 11:02:28 2018 +0800
+
+    header animation
+
+[33mcommit a9b0a7f1febf840fb35706257d493ffaa20cc515[m[33m ([m[1;31morigin/detail-banner[m[33m, [m[1;32mdetail-banner[m[33m)[m
+Author: ChunchunIsMe <843799751@qq.com>
+Date:   Tue Aug 14 21:16:44 2018 +0800
+
+    banner finish
+
+[33mcommit 3df70ee020998bc8a7f6229eddbbf7f30e620636[m[33m ([m[1;31morigin/city-keepalive[m[33m, [m[1;32mcity-keepalive[m[33m)[m
+Author: ChunchunIsMe <843799751@qq.com>
+Date:   Tue Aug 14 11:17:46 2018 +0800
+
+    finish city
+
+[33mcommit d531431001e0f5a06805901f97cc7e048f47bb45[m[33m ([m[1;31morigin/city-vuex[m[33m, [m[1;32mcity-vuex[m[33m)[m
+Author: ChunchunIsMe <843799751@qq.com>
+Date:   Tue Aug 14 10:37:14 2018 +0800
+
+    use vuex
+
+[33mcommit 06fde4f571dd3db0d69ba2bdafc3c54e0eb3d386[m
+Author: ChunchunIsMe <843799751@qq.com>
+Date:   Mon Aug 13 21:21:37 2018 +0800
+
+    use vuex
+
+[33mcommit 1be22cb3ef167a82e8e15935d5816f5a11599c73[m[33m ([m[1;31morigin/city-search-logic[m[33m, [m[1;32mcity-search-logic[m[33m)[m
+Author: ChunchunIsMe <843799751@qq.com>
+Date:   Mon Aug 13 17:25:07 2018 +0800
+
+    search finish
+
+[33mcommit 691ed38233213d37e7230e5c67a3804896860488[m[33m ([m[1;31morigin/city-components[m[33m, [m[1;32mcity-components[m[33m)[m
+Author: ChunchunIsMe <843799751@qq.com>
+Date:   Mon Aug 13 16:28:47 2018 +0800
+
+    perfomance
+
+[33mcommit bfeba9886bae649b099bf3a897ebbf50ba035272[m[33m ([m[1;31morigin/city-ajax[m[33m, [m[1;32mcity-ajax[m[33m)[m
+Author: ChunchunIsMe <843799751@qq.com>
+Date:   Mon Aug 13 15:47:28 2018 +0800
+
+    ajax city
+
+[33mcommit 032274fbc2abb682b81446631f5aaecc64a7b170[m[33m ([m[1;31morigin/city-list[m[33m, [m[1;32mcity-list[m[33m)[m
+Author: ChunchunIsMe <843799751@qq.com>
+Date:   Mon Aug 13 15:19:49 2018 +0800
+
+    finish city css
+
+[33mcommit fe86b29d2508a4436ec2dd1ffd1c34c59ad38b32[m[33m ([m[1;31morigin/city-search[m[33m, [m[1;32mcity-search[m[33m)[m
+Author: ChunchunIsMe <843799751@qq.com>
+Date:   Mon Aug 13 11:12:03 2018 +0800
+
+    add search to city
+
+[33mcommit 7c9717f38de7582c68d8ce1689b0b66b558b6bc6[m[33m ([m[1;31morigin/city-router[m[33m, [m[1;32mcity-router[m[33m)[m
+Author: ChunchunIsMe <843799751@qq.com>
+Date:   Mon Aug 13 10:40:43 2018 +0800
+
+    city router
+
+[33mcommit 616af115b7583961ae329f6ac243d60f97677c57[m[33m ([m[1;31morigin/index-ajax[m[33m, [m[1;32mindex-ajax[m[33m)[m
+Author: ChunchunIsMe <843799751@qq.com>
+Date:   Sun Aug 12 14:25:21 2018 +0800
+
+    index finish
+
+[33mcommit d76aba6bef96af2d51f561bf359ce013ecd036d6[m[33m ([m[1;31morigin/index-recommend[m[33m, [m[1;32mindex-recommend[m[33m)[m
+Author: ChunchunIsMe <843799751@qq.com>
+Date:   Sat Aug 11 20:46:54 2018 +0800
+
+    add recommend
+
+[33mcommit be0de477252cad7c9ece2cca38f48d71a80def7c[m[33m ([m[1;31morigin/index-icons[m[33m, [m[1;32mindex-icons[m[33m)[m
+Author: ChunchunIsMe <843799751@qq.com>
+Date:   Sat Aug 11 16:54:21 2018 +0800
+
+    add icons
+
+[33mcommit 74971677a755a3f190e53701bbfd2c4558cf41e5[m[33m ([m[1;31morigin/index-swiper[m[33m, [m[1;32mindex-swiper[m[33m)[m
+Author: ChunchunIsMe <843799751@qq.com>
+Date:   Sat Aug 11 11:27:57 2018 +0800
+
+    add swiper
+
+[33mcommit 50fe4ee560bfe31369f556e469bf462f53fcff5c[m
+Author: ChunchunIsMe <843799751@qq.com>
+Date:   Fri Aug 10 16:50:19 2018 +0800
+
+    create head
+
+[33mcommit 87734f389ee6ec4ba877ecb0d5da4d120c83ec53[m
+Author: ChunchunIsMe <843799751@qq.com>
+Date:   Fri Aug 10 16:14:03 2018 +0800
+
+    travel init
+
+[33mcommit 219cf7afeb248e6a35dfbdd8210c1be1c886dbdb[m
+Author: ChunchunIsMe <39213133+ChunchunIsMe@users.noreply.github.com>
+Date:   Fri Aug 10 15:40:00 2018 +0800
+
+    Initial commit
