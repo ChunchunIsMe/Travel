@@ -46,8 +46,7 @@ export default {
         position relative
         overflow hidden
         height 0
-        padding-bottom 55%
-        background-color red   
+        padding-bottom 55%  
         .banner-img
             width 100%
         .banner-info
