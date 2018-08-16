@@ -39,3 +39,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 4.去哪儿的票选页面
 
 ![4](https://github.com/ChunchunIsMe/Travel/blob/master/showimg/4.PNG)
+
+
+
+其中用到了axios、vue-awesome-swiper、vuex、router、stylus、babel-polyfill等功能插件。项目虽然简单，但是真的让我受益匪浅。
