@@ -22,7 +22,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 程序演示
-! [1] (Travel/showimg/1.PNG);
-! [2] (Travel/showimg/2.PNG);
-! [3] (Travel/showimg/3.PNG);
-! [4] (Travel/showimg/4.PNG);
+! [1] (https://github.com/ChunchunIsMe/Travel/blob/master/showimg/1.PNG);
+! [2] (https://github.com/ChunchunIsMe/Travel/blob/master/showimg/2.PNG);
+! [3] (https://github.com/ChunchunIsMe/Travel/blob/master/showimg/3.PNG);
+! [4] (https://github.com/ChunchunIsMe/Travel/blob/master/showimg/4.PNG);
